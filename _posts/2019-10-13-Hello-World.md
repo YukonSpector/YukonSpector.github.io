@@ -3,7 +3,7 @@ layout: post
 title: Now we're cooking with gas!
 ---
 
-Packets and beer lives! Now that the bits are in place, packets are being sent, and things are off to a start its now time for well....the beer!
+Packets and beer lives! Now that the bits are in place, packets are being sent, and things are off to a start its now time for .....well.... the beer!
 
 
 This blog is meant to be a place where I can store things I have leared as well as easily share them with other people.
