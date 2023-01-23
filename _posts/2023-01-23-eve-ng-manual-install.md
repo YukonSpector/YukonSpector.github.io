@@ -1,10 +1,7 @@
 ---
 layout: post
-title: eve-ng lab install.....what a pain.
-tags:
-    - eve-ng
-    - homelab
-    - ubuntu
+title: "eve-ng lab install.....what a pain."
+permalink: /2023/eve-ng-manual-install
 ---
 # The what
 Eve-ng now supports clustering hardware and while being a fan of the software I have always used the community edition as a standalone instance on a cloud compute node. Ie going the OVF route. Once I learned about this premium feature in the pro edition now the cost of getting an annual license was justified in my mind. Having a three node lab running in the basement seemed like the perfect enviroment to get this running.
